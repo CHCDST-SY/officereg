@@ -24,5 +24,5 @@ def focus_timer(duration_minutes):
     print("Time's up! Take a break.")
 
 if __name__ == "__main__":
-    focus_duration = int(input("请输入专注时长（分钟）："))
+    focus_duration = int(input("请输入专注时长(分钟)："))
     focus_timer(focus_duration)

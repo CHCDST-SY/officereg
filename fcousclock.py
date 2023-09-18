@@ -1,6 +1,6 @@
 import time
 import os
-
+# 这个代码不一定有用
 def focus_timer(duration_minutes):
     duration_seconds = duration_minutes * 60
     start_time = time.time()
